@@ -1,0 +1,2 @@
+have changed e-mail address 
+and this is the file to check whether the new address have successfully registered
